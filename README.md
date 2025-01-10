@@ -1,0 +1,3 @@
+This project is aimed at making eQTL colocalization studies cheaper.
+
+First Download the QTSs you are interested in via download_qts.py...
